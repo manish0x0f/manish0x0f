@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manish0x0f
 - 👀 I’m interested in all things about computers
-- 🌱 I’m currently learning C# and JavaScript
+- 🌱 I’m currently learning Python, C# and JavaScript
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
